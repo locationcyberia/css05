@@ -1,5 +1,23 @@
 /* Line-Height */
-  
+ul > li {
+    line-height: 1.6;
+}
+
+h1 {
+    line-height: 1.2;
+}
+
+h2 {
+    line-height: .9;
+}
+
+h3 {
+    line-height: 1.7;
+}
+
+footer {
+    line-height: 20;
+}
 /* Spacing Letters */
   
 /* Text Transform */
