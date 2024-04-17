@@ -6,6 +6,7 @@ ul > li {
 h1 {
     line-height: 1.2;
     letter-spacing: .1rem;
+    text-transform: capitalize;
 }
 
 h2 {
@@ -20,6 +21,7 @@ h3 {
 
 footer {
     line-height: 20;
+    text-transform: uppercase;
 }
 /* Spacing Letters */
   
