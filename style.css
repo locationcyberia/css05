@@ -7,16 +7,19 @@ h1 {
     line-height: 1.2;
     letter-spacing: .1rem;
     text-transform: capitalize;
+    text-decoration:overline;
 }
 
 h2 {
     line-height: .9;
     letter-spacing: .05rem;
+    text-decoration: underline;
 }
 
 h3 {
     line-height: 1.7;
     letter-spacing: .35rem;
+    text-decoration: underline;
 }
 
 footer {
