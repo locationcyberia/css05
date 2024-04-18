@@ -1,3 +1,4 @@
+/* Goal was to target <li> elements within nav as opposed to entire nav bar, reducing any white space between the <h> tags */
 ul > li {
     line-height: 1.6;
     text-align: center;
@@ -28,7 +29,7 @@ h3 {
 h3 ~ p {
     text-align: right;
 }
-
+/* Used uppercase to indicate importance regarding styling */
 footer {
     line-height: 20;
     text-transform: uppercase;
