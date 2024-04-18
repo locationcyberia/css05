@@ -1,6 +1,6 @@
-/* Line-Height */
 ul > li {
     line-height: 1.6;
+    text-align: center;
 }
 
 h1 {
@@ -8,29 +8,29 @@ h1 {
     letter-spacing: .1rem;
     text-transform: capitalize;
     text-decoration:overline;
+    text-align: center;
 }
 
 h2 {
     line-height: .9;
     letter-spacing: .05rem;
     text-decoration: underline;
+    text-align: left;
 }
 
 h3 {
     line-height: 1.7;
     letter-spacing: .35rem;
     text-decoration: underline;
+    text-align: right;
+}
+
+h3 ~ p {
+    text-align: right;
 }
 
 footer {
     line-height: 20;
     text-transform: uppercase;
+    text-align: center;
 }
-/* Spacing Letters */
-  
-/* Text Transform */
-  
-/* Text Decoration */
-  
-/* Text Alignment */
-  
